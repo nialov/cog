@@ -1,0 +1,6 @@
+- id: cog
+  name: cog
+  description: Run cog to check for and apply changes
+  entry: cog -c -r
+  language: python
+  types: [text]
